@@ -83,7 +83,8 @@ nav a:hover{
     width: 600px;
     height: auto;
     border-radius: 13%;
-    margin-top: 1%;}
+    margin-top: 1%;
+    padding-bottom: 3%;}
 
 .about-me .vision{
     margin-top: 4%;
@@ -94,11 +95,9 @@ nav a:hover{
     flex-direction: column;
     align-items: flex-start;
  } 
- 
- .vision, .visionOne {
-     margin: 0; }
-
-.visionOne{
+ .visionOne{
+    margin: 0;
+    padding-top: 2%;
     font-weight: 400;
     text-align: center;
 }
