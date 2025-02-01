@@ -84,12 +84,12 @@ nav a:hover{
         margin-bottom: 20px;}
      
      .header {
-        font-size: 2rem;
-        font-weight: 700;
-        padding-top: 3%;}
+        font-size: 14px;
+        font-weight: 300;
+        padding-top: 4%;}
      
      .subheader {
-        font-size: 1.2rem;
+        font-size: 14px;
         font-weight: 400;}
      
      .offers {
@@ -103,12 +103,12 @@ nav a:hover{
         width: 45%; text-align: center;}
     
     .offer-column h2 {
-        font-size: 1.5rem;
+        font-size: 1rem;
         color: #012a4a;
         margin-bottom: 10px;}
      
      .offer-column p {
-        font-size: 1rem;
+        font-size: 13px;
         color: #495057;
         margin-bottom: 20px;} 
     
