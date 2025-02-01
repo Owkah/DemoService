@@ -91,12 +91,25 @@ nav a:hover{
     justify-content: space-between;
    }
 
-     .contact-us h2.header, .contact-us h3.subheader {
+   .contact-us h3.header{
+    font-weight: 300;
+    font-size: small;
+    text-align: center;
+    color: #012a4a;
+    margin-bottom: 3px;
+    padding-top: 9%;}
+
+
+     .contact-us h4.subheader {
         font-weight: 300;
+        font-size: smaller;
         text-align: center;
         color: #012a4a;
         margin-bottom: 20px;
-        padding-top: 9%;}
+        padding-top: 1%;}
+     
+
+ 
      
    
      .form-row {
@@ -138,6 +151,7 @@ nav a:hover{
     .form-group label{
         color: #012a4a;
         font-weight:400;
+        font-size: smaller;
       } 
 
 @media screen and (max-width: 1000px) {
@@ -159,13 +173,22 @@ nav a:hover{
             top: 50px;
             left: 19rem;
         }
-
-        .contact-us h2.header, .contact-us h3.subheader {
+    .contact-us h3.header{
             font-weight: 300;
+            font-size: small;
             text-align: center;
             color: #012a4a;
-            margin-bottom: 20px;
+            margin-bottom: 3px;
             padding-top: 9%;}
+        
+        
+             .contact-us h4.subheader {
+                font-weight: 300;
+                font-size: smaller;
+                text-align: center;
+                color: #012a4a;
+                margin-bottom: 20px;
+                padding-top: 1%;}
     
    
     .form-row {
